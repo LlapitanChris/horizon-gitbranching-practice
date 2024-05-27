@@ -8,3 +8,6 @@ git add <filename>
 OR
 
 git add .
+
+- To save or commit our staged files, do below:
+git commit -m "<your message>"
